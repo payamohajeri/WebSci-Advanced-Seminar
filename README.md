@@ -14,3 +14,4 @@ TH Köln - Web Science - Advanced Seminar Project
 * [On the challenges of open-sourcing proprietary software projects](https://link.springer.com/article/10.1007/s10664-018-9609-6)
 * [Knowledge Flows Within Open Source Software Projects: A Social Network Perspective](https://link.springer.com/chapter/10.1007/978-981-10-1627-1_19)
 * [Why and how developers fork what from whom in GitHub](https://link.springer.com/article/10.1007/s10664-016-9436-6)
+* [Improving Crowd Innovation with Expert Facilitation](https://dl.acm.org/citation.cfm?id=2820023)

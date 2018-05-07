@@ -2,6 +2,9 @@
 TH Köln - Web Science - Advanced Seminar Project
 
 # More Info
+## Notes
+* https://12factor.net
+
 ## Articles
 * [ The Difference Between Free and Open-Source Software](https://www.digitalocean.com/community/tutorials/Free-vs-Open-Source-Software)
 * [Why Open Source misses the point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)

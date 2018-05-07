@@ -21,7 +21,8 @@ TH Köln - Web Science - Advanced Seminar Project
 * [Exploring the patterns of social behavior in GitHub](https://dl.acm.org/citation.cfm?id=2666571)
 * [The Emergence of GitHub as a Collaborative Platform for Education](https://dl.acm.org/citation.cfm?id=2675284)
 * [Performance and participation in open source software on GitHub](https://dl.acm.org/citation.cfm?id=2468382)
-* [Exploring the ecosystem of software developers on GitHub and other platforms](https://dl.acm.org/citation.cfm?id=2556483)
+* [Exploring the ecosystem of software developers on GitHub and other pl
+ttps://dl.acm.org/citation.cfm?id=2556483)
 * [The future of collaborative software development](https://dl.acm.org/citation.cfm?id=2141522)
 * [Lean GHTorrent: GitHub data on demand](https://dl.acm.org/citation.cfm?id=2597126)
 * [Selecting research methods for studying a participatory culture in software development: keynote](https://dl.acm.org/citation.cfm?id=2747957)
@@ -30,3 +31,4 @@ TH Köln - Web Science - Advanced Seminar Project
 * [Collaboration strength metrics and analyses on GitHub](https://dl.acm.org/citation.cfm?id=3106480)
 * [Tracing distributed collaborative development in apache software foundation projects](https://dl.acm.org/citation.cfm?id=3128831)
 * [Effectiveness of Conflict Management Strategies in Peer Review Process of Online Collaboration Projects](https://dl.acm.org/citation.cfm?id=2819950)
+* [A study of external community contribution to open-source projects on GitHub](https://dl.acm.org/citation.cfm?id=2597113)

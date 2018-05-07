@@ -36,3 +36,4 @@ TH Köln - Web Science - Advanced Seminar Project
 * [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://dl.acm.org/citation.cfm?id=2819946)
 * [The Emergence of GitHub as a Collaborative Platform for Education](https://dl.acm.org/citation.cfm?id=2675284)
 * [Using the Model of Regulation to Understand Software Development Collaboration Practices and Tool Support](https://dl.acm.org/citation.cfm?id=2998360)
+* [Sustainability and Diversity of Open Source Software Communities:](https://www.researchgate.net/profile/Luigi_Lavazza/publication/320402853_ICSEA_2017_The_Twelfth_International_Conference_on_Software_Engineering_Advances/links/59e2311e458515393d57ecca/ICSEA-2017-The-Twelfth-International-Conference-on-Software-Engineering-Advances.pdf#page=60)

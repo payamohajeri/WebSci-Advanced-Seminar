@@ -1,6 +1,29 @@
 # WebSci Advanced Seminar
 TH Köln - Web Science - Advanced Seminar Project
 
+# What's the aim of this course?
+This course aims at providing students with relevant research methods for their further academic career in the field of Web Science. 
+
+# What's my project topic?
+My project's topic is "collaboration in free and open source commnuities". I'm going to prepare a research report document based on following libraries and conferences with the focus on CSCW
+* [ACM Digital Library](http://dl.acm.org/)
+* [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/accessinfo.jsp)
+* [Web Science Conference](https://dl.acm.org/event.cfm?id=RE621)
+* [WWW Conference](https://dl.acm.org/event.cfm?id=RE334)
+* [ACM Multimedia Conference](https://dl.acm.org/event.cfm?id=RE179)
+* [conference on CSCW](https://dl.acm.org/event.cfm?id=RE169)
+* [The journal of Web Science](http://www.webscience-journal.net/)
+* [ACM Transactions on the Web](https://tweb.acm.org/)
+* [Computer Supported Cooperative Work](https://link.springer.com/journal/10606)
+
+# Why this topic?
+To start giving you my motivation about choosing this topic, I would like to give a brief overview about myself. I am studing this Web Science program with Software Engineering background. I'm following activitis of open source / free software communities and I have participated in Linux User Group and Python User Group communities. I was also member of executive community at a few Python Conferences (PyCon). Following the news and participating in talks and conferences, gave me a good overview about the whole area. From my view, recent developments and concerns about user privacy, data protection and artificial intelligence have quite a big impact on those communities.
+
+I am motivitated to work on this topic because first, I believe that collaboration in open source / free software communities is growing rapidly, related tools and services are developing so fast and IT industry is getting more and more dependand to these communities. Second, I've found this opportunity of preparing a research report document a good chance to be able to read more about reserach activities happening in this area. I still have a mindset line, separting engineering from research and currently I have only focused on engineering part. Maybe working on this topic help me to understant more clearly, clear this separation line and be able to combine engineering and research activities together.
+
+# Mindmap document
+You can find my mindmap document [here](https://github.com/payamohajeri/WebSci-Advanced-Seminar/blob/master/Mindmap.jpg).
+
 # More Info
 ## Notes
 * https://12factor.net

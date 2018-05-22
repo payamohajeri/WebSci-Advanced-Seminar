@@ -21,6 +21,9 @@ To start giving you my motivation about choosing this topic, I would like to giv
 
 I am motivitated to work on this topic because first, I believe that collaboration in open source / free software communities is growing rapidly, related tools and services are developing so fast and IT industry is getting more and more dependand to these communities. Second, I've found this opportunity of preparing a research report document a good chance to be able to read more about reserach activities happening in this area. I still have a mindset line, separting engineering from research and currently I have only focused on engineering part. Maybe working on this topic help me to understant more clearly, clear this separation line and be able to combine engineering and research activities together.
 
+# Question
+Why enterprises paying for development of an open source project?
+
 # Mindmap document
 You can find my mindmap document [here](https://github.com/payamohajeri/WebSci-Advanced-Seminar/blob/master/Mindmap.jpg).
 

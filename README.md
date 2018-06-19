@@ -38,6 +38,7 @@ You can find my mindmap document [here](https://github.com/payamohajeri/WebSci-A
 
 # Main Paper
 - https://dl.acm.org/citation.cfm?id=2666571
+- https://dl.acm.org/citation.cfm?id=2820544
 
 # More Info
 ## Notes

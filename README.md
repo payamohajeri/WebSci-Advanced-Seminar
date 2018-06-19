@@ -19,13 +19,22 @@ My project's topic is "collaboration in free and open source commnuities". I'm g
 # Why this topic?
 To start giving you my motivation about choosing this topic, I would like to give a brief overview about myself. I am studing this Web Science program with Software Engineering background. I'm following activitis of open source / free software communities and I have participated in Linux User Group and Python User Group communities. I was also member of executive community at a few Python Conferences (PyCon). Following the news and participating in talks and conferences, gave me a good overview about the whole area. From my view, recent developments and concerns about user privacy, data protection and artificial intelligence have quite a big impact on those communities.
 
-I am motivitated to work on this topic because first, I believe that collaboration in open source / free software communities is growing rapidly, related tools and services are developing so fast and IT industry is getting more and more dependand to these communities. Second, I've found this opportunity of preparing a research report document a good chance to be able to read more about reserach activities happening in this area. I still have a mindset line, separting engineering from research and currently I have only focused on engineering part. Maybe working on this topic help me to understant more clearly, clear this separation line and be able to combine engineering and research activities together.
+I am motivitated to work on this topic because first, I believe that collaboration in open source / free software communities is growing rapidly, related tools and services are developing so fast and IT industry is getting more and more dependand to these communities. Second, I've found this opportunity of preparing a research report document a good chance to be able to read more about reserach activities happening in this area. I still have a mindset line, separting engineering from research and currently I have only focused on engineering part. Maybe working on this topic help me to understant more clearly to fade-out this line and be able to combine engineering and research activities together. Third, I'm interested to startup communities and investments on startup projects / new ideas. Recently many of these new ideas are started in open-source communities and companies / investors are investing on development of open source software. why? maybe because of branding, developing trust or getting access to communitiy resources and shared knowledge. This strategy is very interesting to me and I want to know more about. 
 
 # Question
 Why enterprises paying for development of an open source project?
 
 # Mindmap document
 You can find my mindmap document [here](https://github.com/payamohajeri/WebSci-Advanced-Seminar/blob/master/Mindmap.jpg).
+
+# Contents
+- Abstract
+- Introduction
+- Motivation
+- Growth Mode
+- Social Behaviour Patterns
+- Comparision
+- Concolusion
 
 # More Info
 ## Notes
